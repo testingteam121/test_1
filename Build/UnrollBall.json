@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unroll puzzle - source code",
+"productVersion": "1.0",
+"dataUrl": "UnrollBall.data.unityweb",
+"wasmCodeUrl": "UnrollBall.wasm.code.unityweb",
+"wasmFrameworkUrl": "UnrollBall.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.36f1"
+}

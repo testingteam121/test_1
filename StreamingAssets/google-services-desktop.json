@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "555096232007",
+    "project_id": "uunroll-ball",
+    "storage_bucket": "uunroll-ball.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555096232007:android:3dbbef4d9dc7668dfe2162",
+        "android_client_info": {
+          "package_name": "com.tvtodaynetwork.unrollpuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555096232007-jfig9lodg3qk1lvsub704hv2866mfm2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUFfyDXuws9NEFLS25XjrnPFimkjup8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555096232007-jfig9lodg3qk1lvsub704hv2866mfm2s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555096232007-fmjkll2fcjce38jv3lgq7hjlnoj0bsq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tvtodaynetwork.unrollpuzzle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
